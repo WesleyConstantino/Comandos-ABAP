@@ -10,5 +10,5 @@ CLEAR. "Limpa.
 
 REFRESH. "Quando usamos o REFRESH, apagamos todas as linhas da tabela interna mas não libera a memória ocupada pelas linhas.
 
-FREE. "Esse comando atua da mesma forma que o CLEAR, menos para tabelas internas.
-"Para tabelas internas, você pode usar o FREE para apagar os registros e liberar o espaço de memória, incluindo a alocação de memória inicial. 
+FREE. "Esse comando atua da mesma forma que o CLEAR, menos para tabelas internas. Para tabelas internas, você pode usar o FREE para apagar os registros e liberar 
+"o espaço de memória, incluindo a alocação de memória inicial. 
